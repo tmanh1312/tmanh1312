@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mia Truong
+
 
 <!---
 tmanh1312/tmanh1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
